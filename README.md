@@ -5,6 +5,8 @@ Aplicativo Windows (WinForms / .NET Framework 4.8) que extrai as primeiras image
 uploads do [Datassette](https://datassette.org), mas funciona para qualquer caso de geração de
 *thumbnails* a partir de revistas, *comics* ou catálogos digitalizados.
 
+![Tela principal do aplicativo](img/screenshot.png)
+
 ## Dependências
 
 - **.NET Framework 4.8**: https://dotnet.microsoft.com/download/dotnet-framework/net48
