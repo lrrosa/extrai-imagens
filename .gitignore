@@ -1,0 +1,48 @@
+# Build output
+bin/
+obj/
+
+# NuGet packages restaurados localmente (use packages.config + nuget restore)
+packages/
+*.nupkg
+
+# Arquivos locais de teste (possivelmente sob copyright; não publicar)
+testes/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# Resultados de teste / cache
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+*.psess
+*.vsp
+*.vspx
+
+# Caches do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Caches do macOS
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
